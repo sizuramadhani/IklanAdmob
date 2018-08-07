@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IklanAdmob</string>
+    <string name="title_activity_second_activity">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob App</string>
+    <string name="btn_fullscreen_ad">Show fullscreen Ad</string>
+
+    <!--Admob ad unit ID -->
+    <string name="banner_home_footer">
+        ca-app-pub-2669939146263200/8166035649
+    </string>
+    <string name="interstitial_full_screen">
+        ca-app-pub-2669939146263200/3292503987
+    </string>
+</resources>
